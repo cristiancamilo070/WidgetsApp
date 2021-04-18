@@ -1,6 +1,6 @@
-# componentes
+# Widgets
 
-A new Flutter project.
+This app was made to store some of the most communly used widgets.
 
 ## Getting Started
 
